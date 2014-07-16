@@ -1,0 +1,10 @@
+.container {
+  text-align: center;
+  background-color: white;
+  padding: 90px 90px 90px 90px;
+  vertical-align: center;
+}
+
+body {
+  background-color: gray;
+}

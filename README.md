@@ -1,0 +1,1 @@
+This is a Scrabble Application made by Justin Speers and Katharine Chen during Epicodus (Week#1). 
