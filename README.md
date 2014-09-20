@@ -11,9 +11,11 @@ The goal of this project is create a page that takes a word and returns the Scra
 
 ##Installation 
 Clone the repository in your terminal. 
+
     git clone https://github.com/katharinechen/scrabble.git 
 
 Open scripts.js in your browser.
+
     scripts.js 
 
 ##License 
