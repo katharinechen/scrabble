@@ -7,12 +7,10 @@ var scrabbleLetter = function(letter) {
                       "k": 5,
                       "j": 8, "x": 8,
                       "q": 10, "z": 10};
-
   return letterScores[letter.toLowerCase()];
 };
 
 var scrabble = function(word) {
-
   var score=0;
   for(var i=0; i < word.length; i++) {
     score += scrabbleLetter(word[i]);
@@ -38,7 +36,6 @@ $(document).ready(function () {
     }
 
     $("#results").append("<h2>Score = " + result + "</h2>");
-
     event.preventDefault();
   });
 });
